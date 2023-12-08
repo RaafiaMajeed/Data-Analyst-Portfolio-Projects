@@ -17,16 +17,8 @@ Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
 ### Bike Sales Dashboard
 
 Skills Demonstrated: Advanced Excel functions, Formulas, Data Visualization.
-2. Power BI Projects
-[Project 3 Title]
 
-Description: Summarize the purpose and insights gained from the Power BI project.
-Skills Demonstrated: Data Modeling, DAX (Data Analysis Expressions), Report Design.
-[Project 4 Title]
-
-Description: Describe the fourth Power BI project and its impact.
-Skills Demonstrated: Dashboard creation, Data Transformation, Visualization Best Practices.
-## 3. SQL Projects
+## 2. SQL Projects
 ### Digital Music Store Data Analysis
 
 Description: SQL queries for the analysis of a digital music store's database. The database encompasses information about employees, invoices, customers, tracks, genres, artists, and albums. The queries are designed to extract insightful information related to employees, sales, customer behavior, popular genres, and top spending customers.
@@ -45,24 +37,35 @@ String manipulation (substring, parse name)
 Data cleaning with CASE statements
 Removal of duplicate entries using ROW_NUMBER()
 Column deletion for data optimization
-4. Python Projects
-[Project 7 Title]
+### 3. Python Projects
+### Loan Approval Prediction
 
-Description: Introduce the Python project and its real-world application.
-Skills Demonstrated: Data Cleaning with Pandas, Exploratory Data Analysis, Visualization with Matplotlib/Seaborn.
-[Project 8 Title]
+- Description: This project focuses on predicting whether a customer is eligible for a loan approval or not. It involves data cleaning, exploratory data analysis, and the implementation of machine learning algorithms for classification.
+- Skills Demonstrated: Data Cleaning with Pandas, Statistical Analysis, Machine Learning, Exploratory Data Analysis, Visualization with Matplotlib/Seaborn.
+### E-commerce Sales Data Analysis
 
-Description: Briefly describe the eighth Python project, showcasing versatility.
-Skills Demonstrated: Statistical Analysis, Machine Learning (if applicable).
-Skills Highlight
+- Description: This project involves the analysis of sales data for a company using the Python programming language and the Pandas library. The sales data is spread across 12 months, with each month's data stored in separate CSV files. The goal is to merge the data, clean it, and perform various analyses to gain insights into the company's sales performance.
+- Skills Demonstrated: Data Cleaning, Exploratory Data Analysis, Visualization with Matplotlib/Seaborn.
+  ### World Tourism Data Analysis
+  - Descriotion: This project involved a comprehensive analysis of global tourism data, leveraging Python and key libraries (Pandas, NumPy, Plotly). The analysis focused on uncovering actionable insights into inbound and outbound tourism trends, top-performing countries, GDP correlations, and per capita expenditures. Conducted in-depth analysis of global tourism data, including inbound and outbound tourists, expenditures, GDP correlations, and population insights.
+  - Skills: Exploratory Data Analysis, Visualization with Matplotlib/Seaborn, plotly
+### 4. Power BI Projects
+### Dasboard for Data Professional Survey Breakdown
+
+Skills Demonstrated: Data Modeling, DAX (Data Analysis Expressions), Report Design.
+### Super Store Sales Dashboard with Time series forecasting
+
+- Description: In this project data analysis techniques were incorporated, specialzing in time series analysis to deliver valuable insights. Accurate sales forecasting was performed along with interactive dashboard creation.
+- Skills Demonstrated: Dashboard creation, Data Transformation, Visualization Best Practices.
+### Skills Highlight
 Recruiters will find evidence of the following key skills in this portfolio:
 
-Data Analysis: Proficient in extracting meaningful insights from diverse datasets.
-Data Visualization: Demonstrated ability to create compelling visualizations for effective communication.
-SQL Proficiency: Adept at querying databases to extract and analyze relevant information.
-Programming (Python): Skills in using Python for data manipulation, analysis, and, if applicable, machine learning.
-Power BI: Experience in building interactive and insightful dashboards for data-driven decision-making.
-Excel Mastery: Advanced Excel skills, including formulas, functions, and scenario analysis.
+- Data Analysis: Proficient in extracting meaningful insights from diverse datasets.
+- Data Visualization: Demonstrated ability to create compelling visualizations for effective communication.
+- SQL Proficiency: Adept at querying databases to extract and analyze relevant information.
+- Programming (Python): Skills in using Python for data manipulation, analysis, and, if applicable, machine learning.
+- Power BI: Experience in building interactive and insightful dashboards for data-driven decision-making.
+- Excel Mastery: Advanced Excel skills, including formulas, functions, and scenario analysis.
 Feel free to explore each project to get a deeper understanding of my skills and approach to data analysis. If you have any questions or would like more information, don't hesitate to reach out.
 
 Thank you for visiting my Data Analyst Portfolio!
