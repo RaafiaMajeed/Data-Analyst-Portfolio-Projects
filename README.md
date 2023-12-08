@@ -9,16 +9,14 @@ Welcome to my Data Analyst Portfolio!
 💻 Proficient in tools like SQL, Python, Excel, Tableau and Power BI, I thrive in the intersection of technology and data. My journey from electrical engineering to data analytics has equipped me with a unique skill set, combining technical prowess with a passion for uncovering stories within data.
 This repository showcases a diverse range of projects covering data analysis using various tools and technologies. As a data analyst, I've worked on projects involving Excel, Power BI, SQL, and Python, demonstrating proficiency in key skills valued by recruiters in the field.
 
-Projects
-1. Excel Projects
-[Project 1 Title]
+## Projects
+### 1. Excel Projects
+### Deluxe Store Sales Dashboard
 
-Description: Briefly explain the goal and scope of the project.
 Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
-[Project 2 Title]
+### Bike Sales Dashboard
 
-Description: Provide a short overview of the second Excel project.
-Skills Demonstrated: Advanced Excel functions, Scenario Analysis, Goal Seek.
+Skills Demonstrated: Advanced Excel functions, Formulas, Data Visualization.
 2. Power BI Projects
 [Project 3 Title]
 
@@ -28,15 +26,25 @@ Skills Demonstrated: Data Modeling, DAX (Data Analysis Expressions), Report Desi
 
 Description: Describe the fourth Power BI project and its impact.
 Skills Demonstrated: Dashboard creation, Data Transformation, Visualization Best Practices.
-3. SQL Projects
-[Project 5 Title]
+## 3. SQL Projects
+### Digital Music Store Data Analysis
 
-Description: Outline the goal and significance of the SQL project.
-Skills Demonstrated: Querying databases, Data Extraction, Aggregation.
-[Project 6 Title]
+Description: SQL queries for the analysis of a digital music store's database. The database encompasses information about employees, invoices, customers, tracks, genres, artists, and albums. The queries are designed to extract insightful information related to employees, sales, customer behavior, popular genres, and top spending customers.
+Skills Demonstrated: Querying databases, Data Extraction, Aggregation, CTEs
+###  COVID-19 Data Analysis
 
-Description: Provide an overview of the sixth SQL project.
-Skills Demonstrated: Joining Tables, Subqueries, Performance Optimization.
+- Description: This project utilizes SQL queries to analyze COVID-19 data, focusing on aspects such as total cases, death rates, and vaccination percentages. The queries cover a range of insights, from country-specific metrics to global trends.
+- Skills Demonstrated: Data filtering, aggregation, percentage calculations, and complex queries for epidemiological analysis.
+
+###  Data Cleaning using SQL
+
+- Description: This SQL script demonstrates data cleaning techniques for a housing dataset from Nashville. Skills showcased include standardizing date formats, populating missing property addresses, separating address data into different columns, and replacing values for clarity. The script also highlights removing duplicate entries using ROW_NUMBER() and deleting unused columns to optimize the dataset.
+- Skills Demonstrated: Date standardization
+Data population
+String manipulation (substring, parse name)
+Data cleaning with CASE statements
+Removal of duplicate entries using ROW_NUMBER()
+Column deletion for data optimization
 4. Python Projects
 [Project 7 Title]
 
