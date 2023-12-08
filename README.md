@@ -13,7 +13,7 @@ This repository showcases a diverse range of projects covering data analysis usi
 ### 1. Excel Projects
 ### Deluxe Store Sales Dashboard
 - Description: This Deluxe Store Sales Dashboard project focuses on showcasing skills in data cleaning, PivotTables, formulas, and data visualization. The project uses sales data from the Deluxe Store to create an interactive and informative dashboard and derives actionable insights from sales data.
-Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
+- Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
 ### Bike Sales Dashboard
 - Description: The Bike Sales Dashboard is a comprehensive project highlighting advanced Excel functions, formulas, and data visualization techniques. This project revolves around sales data from a bike store, aiming to provide actionable insights into sales performance and trends.
 - Skills Demonstrated: Advanced Excel functions, Formulas, Data Visualization.
@@ -21,8 +21,8 @@ Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
 ## 2. SQL Projects
 ### Digital Music Store Data Analysis
 
-Description: SQL queries for the analysis of a digital music store's database. The database encompasses information about employees, invoices, customers, tracks, genres, artists, and albums. The queries are designed to extract insightful information related to employees, sales, customer behavior, popular genres, and top spending customers.
-Skills Demonstrated: Querying databases, Data Extraction, Aggregation, CTEs
+ - Description: SQL queries for the analysis of a digital music store's database. The database encompasses information about employees, invoices, customers, tracks, genres, artists, and albums. The queries are designed to extract insightful information related to employees, sales, customer behavior, popular genres, and top spending customers.
+- Skills Demonstrated: Querying databases, Data Extraction, Aggregation, CTEs
 ###  COVID-19 Data Analysis
 
 - Description: This project utilizes SQL queries to analyze COVID-19 data, focusing on aspects such as total cases, death rates, and vaccination percentages. The queries cover a range of insights, from country-specific metrics to global trends.
@@ -31,11 +31,11 @@ Skills Demonstrated: Querying databases, Data Extraction, Aggregation, CTEs
 ###  Data Cleaning using SQL
 
 - Description: This SQL script demonstrates data cleaning techniques for a housing dataset from Nashville. Skills showcased include standardizing date formats, populating missing property addresses, separating address data into different columns, and replacing values for clarity. The script also highlights removing duplicate entries using ROW_NUMBER() and deleting unused columns to optimize the dataset.
-- Skills Demonstrated: Date standardization
-Data population
-String manipulation (substring, parse name)
-Data cleaning with CASE statements
-Removal of duplicate entries using ROW_NUMBER()
+- Skills Demonstrated: Date standardization,
+Data population,
+String manipulation (substring, parse name),
+Data cleaning with CASE statements,
+Removal of duplicate entries using ROW_NUMBER(),
 Column deletion for data optimization
 ### 3. Python Projects
 ### Loan Approval Prediction
@@ -51,21 +51,21 @@ Column deletion for data optimization
   - Skills: Exploratory Data Analysis, Visualization with Matplotlib/Seaborn, plotly
 ### 4. Power BI Projects
 ### Dasboard for Data Professional Survey Breakdown
-
-Skills Demonstrated: Data Modeling, DAX (Data Analysis Expressions), Report Design.
+- Description: The Dashboard for Data Professional Survey Breakdown is a Power BI project that delves into the analysis of survey data related to the data professional field. The project showcases expertise in Power BI, focusing on data modeling, the implementation of DAX (Data Analysis Expressions), and designing comprehensive reports.
+- Skills Demonstrated: Data Modeling, DAX (Data Analysis Expressions), Report Design.
 ### Super Store Sales Dashboard with Time series forecasting
 
 - Description: In this project data analysis techniques were incorporated, specialzing in time series analysis to deliver valuable insights. Accurate sales forecasting was performed along with interactive dashboard creation.
 - Skills Demonstrated: Dashboard creation, Data Transformation, Visualization Best Practices.
-### Skills Highlight
+### Skills Highlights
 Recruiters will find evidence of the following key skills in this portfolio:
 
 - Data Analysis: Proficient in extracting meaningful insights from diverse datasets.
 - Data Visualization: Demonstrated ability to create compelling visualizations for effective communication.
 - SQL Proficiency: Adept at querying databases to extract and analyze relevant information.
-- Programming (Python): Skills in using Python for data manipulation, analysis, and, if applicable, machine learning.
+- Programming (Python): Skills in using Python for data manipulation, analysis, and machine learning.
 - Power BI: Experience in building interactive and insightful dashboards for data-driven decision-making.
 - Excel Mastery: Advanced Excel skills, including formulas, functions, and scenario analysis.
-Feel free to explore each project to get a deeper understanding of my skills and approach to data analysis. If you have any questions or would like more information, don't hesitate to reach out.
+#### Feel free to explore each project to get a deeper understanding of my skills and approach to data analysis. If you have any questions or would like more information, don't hesitate to reach out.
 
 Thank you for visiting my Data Analyst Portfolio!
