@@ -12,11 +12,11 @@ This repository showcases a diverse range of projects covering data analysis usi
 ## Projects
 ### 1. Excel Projects
 ### Deluxe Store Sales Dashboard
-
+- Description: This Deluxe Store Sales Dashboard project focuses on showcasing skills in data cleaning, PivotTables, formulas, and data visualization. The project uses sales data from the Deluxe Store to create an interactive and informative dashboard and derives actionable insights from sales data.
 Skills Demonstrated: Data cleaning, PivotTables, Formulas, Data Visualization.
 ### Bike Sales Dashboard
-
-Skills Demonstrated: Advanced Excel functions, Formulas, Data Visualization.
+- Description: The Bike Sales Dashboard is a comprehensive project highlighting advanced Excel functions, formulas, and data visualization techniques. This project revolves around sales data from a bike store, aiming to provide actionable insights into sales performance and trends.
+- Skills Demonstrated: Advanced Excel functions, Formulas, Data Visualization.
 
 ## 2. SQL Projects
 ### Digital Music Store Data Analysis
@@ -46,7 +46,7 @@ Column deletion for data optimization
 
 - Description: This project involves the analysis of sales data for a company using the Python programming language and the Pandas library. The sales data is spread across 12 months, with each month's data stored in separate CSV files. The goal is to merge the data, clean it, and perform various analyses to gain insights into the company's sales performance.
 - Skills Demonstrated: Data Cleaning, Exploratory Data Analysis, Visualization with Matplotlib/Seaborn.
-  ### World Tourism Data Analysis
+### World Tourism Data Analysis
   - Descriotion: This project involved a comprehensive analysis of global tourism data, leveraging Python and key libraries (Pandas, NumPy, Plotly). The analysis focused on uncovering actionable insights into inbound and outbound tourism trends, top-performing countries, GDP correlations, and per capita expenditures. Conducted in-depth analysis of global tourism data, including inbound and outbound tourists, expenditures, GDP correlations, and population insights.
   - Skills: Exploratory Data Analysis, Visualization with Matplotlib/Seaborn, plotly
 ### 4. Power BI Projects
