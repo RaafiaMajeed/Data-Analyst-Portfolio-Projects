@@ -7,8 +7,7 @@ Welcome to my Data Analyst Portfolio!
 📊 Now, as a data analyst, I leverage my engineering background to bring a fresh perspective to data-driven decision-making. My ability to dissect complex problems, coupled with a strong analytical mindset, allows me to derive meaningful insights from diverse datasets.
 
 💻 Proficient in tools like SQL, Python, Excel, Tableau and Power BI, I thrive in the intersection of technology and data. My journey from electrical engineering to data analytics has equipped me with a unique skill set, combining technical prowess with a passion for uncovering stories within data.
-This repository showcases a diverse range of projects covering data analysis using various tools and technologies. As a data analyst, I've worked on projects involving Excel, Power BI, SQL, and Python, demonstrating proficiency in key skills valued by recruiters in the field.
-
+This repository showcases a diverse range of projects covering data analysis using various tools and technologies. As a data analyst, I've worked on projects involving Excel, Power BI, SQL, and Python, demonstrating proficiency in key skills.
 ## Projects
 ### 1. Excel Projects
 ### Deluxe Store Sales Dashboard
@@ -58,7 +57,7 @@ Column deletion for data optimization
 - Description: In this project data analysis techniques were incorporated, specialzing in time series analysis to deliver valuable insights. Accurate sales forecasting was performed along with interactive dashboard creation.
 - Skills Demonstrated: Dashboard creation, Data Transformation, Visualization Best Practices.
 ### Skills Highlights
-Recruiters will find evidence of the following key skills in this portfolio:
+
 
 - Data Analysis: Proficient in extracting meaningful insights from diverse datasets.
 - Data Visualization: Demonstrated ability to create compelling visualizations for effective communication.
