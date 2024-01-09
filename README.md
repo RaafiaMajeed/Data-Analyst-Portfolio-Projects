@@ -1,13 +1,11 @@
 # Data-Analyst-Portfolio-Projects
-Welcome to my Data Analyst Portfolio! 
- Hello! I'm Raafia, a passionate data analyst with a unique background in electrical engineering. My professional journey began in the world of electrical engineering, where I honed my skills in problem-solving, critical thinking, and attention to detail. As I navigated the complexities of engineering projects, I discovered my fascination with data and its transformative power.
+Welcome to my Data Analyst Portfolio! Hello! I'm Rafia, a passionate data analyst with an exceptional background in electrical engineering. My professional journey began in the world of electrical engineering, where I honed my skills in problem solving, critical thinking and attention to detail. Exploring complex technology projects, I discovered my passion for data and its transformative power.
 
-🔧 In my previous role as an electrical engineer, I gained a solid foundation in analytical thinking, a knack for optimizing processes, and a commitment to delivering precise and efficient solutions. However, my curiosity led me to explore the dynamic field of data analytics.
+My previous role as an electrical engineer gave me a strong foundation in analytical thinking, skills in optimizing processes and a commitment to delivering comprehensive and efficient solutions. However, my curiosity led me to explore the dynamics of data analysis.
 
-📊 Now, as a data analyst, I leverage my engineering background to bring a fresh perspective to data-driven decision-making. My ability to dissect complex problems, coupled with a strong analytical mindset, allows me to derive meaningful insights from diverse datasets.
+Now as a data analyst, I am using my technical skills to bring a fresh perspective to data-driven decision-making My ability to dissect complex problems, combined with a strong analytical mindset provides i get meaningful insights from different types of data .
 
-💻 Proficient in tools like SQL, Python, Excel, Tableau and Power BI, I thrive in the intersection of technology and data. My journey from electrical engineering to data analytics has equipped me with a unique skill set, combining technical prowess with a passion for uncovering stories within data.
-This repository showcases a diverse range of projects covering data analysis using various tools and technologies. As a data analyst, I've worked on projects involving Excel, Power BI, SQL, and Python, demonstrating proficiency in key skills.
+Proficient with tools like SQL, Python, Excel, Tableau and Power BI, I thrive at the interface between technology and data. My journey from electrical engineering to data analytics has given me a unique set of skills, combining technical expertise with a passion for uncovering information in data. This repository features a variety of projects involving data analysis using a variety of tools and technologies. As a data analyst, I worked on Excel, Power BI, SQL, and Python projects, demonstrating proficiency in core competencies.
 ## Projects
 ### 1. Excel Projects
 ### Deluxe Store Sales Dashboard
